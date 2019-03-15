@@ -26,4 +26,7 @@ and place them in `./data/` , `./val/`  and `./test/`
   - `-impath `(default: './data/') : the file for data
   - `-tpath `(default: './val/') : the file for val data, if the data is test data, change to './test/'
   -  `-tlabel `(default: './val.csv') : the label for val data, if the data is test data, please set `-iseval` as 0
-  
+ 
+Please cite the paper if you are using this code.
+
+Zehang Lin, Zhenguo Yang, Feitao Huang and Junhong Chen. Regional Maximum Activa- tions of Convolutions with Attention for Cross-domain Beauty and Personal Care Product Retrieval. ACM on multimedia conference, 2018.
